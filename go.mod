@@ -1,3 +1,3 @@
-module github.com/bbgoldovskiy/sso-protos
+module github.com/bbgoldovsky/sso-protos
 
 go 1.23.6
