@@ -1,1 +1,1 @@
-# sso-proto
+# sso-protos
